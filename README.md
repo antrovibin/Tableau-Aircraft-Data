@@ -1,7 +1,7 @@
-# ✈️Aircraft Data Dashboard - Tableau Project
+# Aircraft Data Dashboard - Tableau Project
 This project showcases an interactive Tableau dashboard that visualizes aircraft-related data. The dashboard integrates two datasets (ba_reviews.csv and countries.csv) and provides insights into key metrics and trends. This project is designed to help users explore and understand aircraft data, including reviews and country-specific information, through a visually engaging dashboard.
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 The dashboard is built using Tableau and includes the following features:
 
 * **Aircraft Reviews:** Insights from ba_reviews.csv, which contains review data for airlines, showcasing metrics such as review scores, sentiment, and airline performance.
@@ -29,6 +29,10 @@ The dashboard allows users to explore key performance indicators (KPIs) and tren
    Open the Aircraft_Data.twb file in Tableau. This file contains the visualizations and the connection to the datasets.
 4. **Dataset Files:**
    Make sure the ba_reviews.csv and countries.csv files are available in the project folder. Tableau will automatically load these datasets when you open the workbook.
+
+## Dashboard Preview
+
+![Output](https://github.com/antrovibin/Tableau-Aircraft-Data/blob/main/Output.png)
 
 ## License
 This project is licensed under the MIT License.
